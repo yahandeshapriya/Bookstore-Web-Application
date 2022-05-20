@@ -1,5 +1,5 @@
 # Web-Application 
 
-(Web Application Group Project)
+(WAD Group Project)
 
 Creating a Web Application for a bookstore
